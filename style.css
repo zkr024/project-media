@@ -196,6 +196,14 @@ aside{
     background-color: #222;
 }
 
+.mintitle:hover {
+    color: rgb(219, 32, 22);
+}
+
+.mintitle:active {
+    color: turquoise;
+}
+
 
 
 
