@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    background-color: cadetblue;
+}
+
+.mainLogo{
+    width: 4em;
+}
+
+.search {
+    background-color: chartreuse;
+}
+
+.searchbar {
+    
+    width: 31em;
+    height: 2.5em;
+    border: none;
+}
+.searchbutton {
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+    height: 2.5em;
+    width: 2.5em;
+    
+    border: none;
+}
